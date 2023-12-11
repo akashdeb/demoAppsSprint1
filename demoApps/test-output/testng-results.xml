@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-08T11:01:35 IST" name="Default suite" finished-at="2023-12-08T11:01:50 IST" duration-ms="14662">
+    <groups>
+    </groups>
+    <test started-at="2023-12-08T11:01:35 IST" name="Default test" finished-at="2023-12-08T11:01:50 IST" duration-ms="14662">
+      <class name="webElement.textfield.RegisterUserAndLoginTest">
+        <test-method is-config="true" signature="bc()[pri:0, instance:webElement.textfield.RegisterUserAndLoginTest@2a265ea9]" started-at="2023-12-08T11:01:35 IST" name="bc" finished-at="2023-12-08T11:01:44 IST" duration-ms="8748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method signature="registerUserAndVerify()[pri:1, instance:webElement.textfield.RegisterUserAndLoginTest@2a265ea9]" started-at="2023-12-08T11:01:44 IST" name="registerUserAndVerify" finished-at="2023-12-08T11:01:48 IST" duration-ms="3748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUserAndVerify -->
+        <test-method signature="loginUserAndVerify()[pri:2, instance:webElement.textfield.RegisterUserAndLoginTest@2a265ea9]" started-at="2023-12-08T11:01:48 IST" name="loginUserAndVerify" finished-at="2023-12-08T11:01:49 IST" duration-ms="1510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUserAndVerify -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:webElement.textfield.RegisterUserAndLoginTest@2a265ea9]" started-at="2023-12-08T11:01:49 IST" name="ac" finished-at="2023-12-08T11:01:50 IST" duration-ms="558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- webElement.textfield.RegisterUserAndLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
